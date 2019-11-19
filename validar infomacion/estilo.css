@@ -1,0 +1,16 @@
+html {    
+    /*color al fondo de la pagina html */
+        background-color: #f0f1de; } 
+body {    
+    /*color de todas las letras */
+    color: rgb(7, 1, 1); 
+    /*color del fondo de la pantalla del centro*/  
+    background-color: rgb(157, 197, 207);
+    width: 30%;
+    margin: 10% 35%;
+    border-radius: 15px;
+
+}
+section{
+    text-align: left;
+}

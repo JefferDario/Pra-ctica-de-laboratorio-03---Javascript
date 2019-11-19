@@ -1,0 +1,25 @@
+html {    
+    /*color al fondo de la pagina html */
+        background-color: #ffffbf; } 
+body {    
+    /*color de todas las letras */
+    color: rgb(7, 1, 1); 
+    /*color del fondo de la pantalla del centro*/  
+    background-color: rgb(85, 85, 14);
+    width: 99%;
+      
+}
+input{
+    border-radius: 15px;
+    background-color: aqua;
+    
+}
+img{
+    
+    position: relative;
+    width: 60%;
+    margin:initial;
+}
+:disabled{
+    background-color: salmon;
+}
